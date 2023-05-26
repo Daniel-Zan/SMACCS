@@ -1,0 +1,72 @@
+/* Estilos base */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  h1, h2, h3 {
+    margin: 0;
+    font-weight: bold;
+  }
+  
+  p {
+    margin: 0 0 10px;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  /* Estilos de layout */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .section {
+    margin-bottom: 30px;
+  }
+  
+  /* Estilos de módulo */
+  .personal-info {
+    margin-bottom: 20px;
+  }
+  
+  .experience {
+    margin-bottom: 30px;
+  }
+  
+  .education {
+    margin-bottom: 30px;
+  }
+  
+  .skills {
+    margin-bottom: 30px;
+  }
+  .imagenPerfil {
+    float: right;
+    margin-left: 20px;
+    width: 200px; 
+  }
+
+  
+  /* Estilos de tema */
+  body {
+    background-color: #f5f5f5;
+    color: #333;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #007bff;
+  }
+
+  h2 {
+    color: #007bff;
+  }
+  
+  /* Otros estilos de tema y personalizados según sea necesario */
+  
